@@ -1,0 +1,35 @@
+.dark {
+  background: rgba(0, 0, 0, 0.4);
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8) 0,
+    rgba(0, 0, 0, 0) 60%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+}
+.netflix_logo {
+  height: 55px;
+  width: 167px;
+}
+.videoloop1 {
+  max-width: 73%;
+  max-height: 54%;
+  top: 46%;
+}
+.strangerthings {
+  bottom: 8%;
+}
+.videoloop2 {
+  max-width: 63%;
+  max-height: 47%;
+  top: 34%;
+}
+.footer {
+  color: #757575;
+}
+.line {
+  fill: none;
+  stroke: #303030;
+  stroke-miterlimit: 10;
+  stroke-width: 6.5px;
+}
