@@ -24,12 +24,7 @@
   max-height: 47%;
   top: 34%;
 }
-.footer {
-  color: #757575;
-}
 .line {
-  fill: none;
-  stroke: #303030;
   stroke-miterlimit: 10;
   stroke-width: 6.5px;
 }
